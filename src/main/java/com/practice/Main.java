@@ -1,4 +1,4 @@
-package com.example;
+package com.practice;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -13,7 +13,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
-import com.example.config.Config;
+import com.practice.config.Config;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package com.example;
+package com.practice;
 
 public class ReverseInteger {
 
@@ -27,7 +27,7 @@ public class ReverseInteger {
     }
 	
 	public static void main(String[] args) {
-		System.out.println(reverse(1534236469));
+		System.out.println(reverse(120));
 	}
 	
 }
